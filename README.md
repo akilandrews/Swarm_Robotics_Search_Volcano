@@ -1,37 +1,10 @@
 # Project: Volcano Research
 
-
 ## What it is!
-Simulates swarm robotics research.
-
-
-## Versions
-
-
-## Documentation
-
-
-## Files:
-
+Simulates swarm robots using gradient ascent to explore a static volcanic plume
 
 ## Requirements:
 MATLAB R2017a
 
-
-## Installation
-
-
-## Instructions:
-
-
 ## Licensing
 FREE
-
-
-## Troubleshooting
-
-
-## Contacts
-
-
-**Enjoy!**
